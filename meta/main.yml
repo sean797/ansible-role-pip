@@ -1,0 +1,19 @@
+---
+galaxy_info:
+  author: Sean O'Keeffe
+  description: Downloads and installs python packages
+  issue_tracker_url: https://github.com/sean797/ansible-role-pip/issues
+  license: GPLv2
+  min_ansible_version: 2.4
+  platforms:
+  - name: EL
+    versions:
+      - 7
+  - name: Debian
+    versions:
+      - jessie
+  - name: Ubuntu
+    versions:
+      - xenial
+      - trusty
+dependencies: []
